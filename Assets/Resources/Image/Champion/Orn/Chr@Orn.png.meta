@@ -1,0 +1,1046 @@
+fileFormatVersion: 2
+guid: c2213c5f045e1467ca900eee06fb8768
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3376264315195896792
+    second: Chr@Orn_0
+  - first:
+      213: 4595718936397004576
+    second: Chr@Orn_1
+  - first:
+      213: 7699361750571194020
+    second: Chr@Orn_2
+  - first:
+      213: 9199266398395628403
+    second: Chr@Orn_3
+  - first:
+      213: 6792430076670019223
+    second: Chr@Orn_4
+  - first:
+      213: 2106887502931712695
+    second: Chr@Orn_5
+  - first:
+      213: -2227412671824864149
+    second: Chr@Orn_6
+  - first:
+      213: 6786991490911112231
+    second: Chr@Orn_7
+  - first:
+      213: 565681737611371313
+    second: Chr@Orn_8
+  - first:
+      213: -9016143722640224842
+    second: Chr@Orn_9
+  - first:
+      213: 8187572257176249716
+    second: Chr@Orn_10
+  - first:
+      213: 8417982432426074788
+    second: Chr@Orn_11
+  - first:
+      213: 8178322765101531435
+    second: Chr@Orn_12
+  - first:
+      213: -5010984359993928216
+    second: Chr@Orn_13
+  - first:
+      213: 6054004931931726477
+    second: Chr@Orn_14
+  - first:
+      213: -2508300689479014361
+    second: Chr@Orn_15
+  - first:
+      213: 4632394757159187755
+    second: Chr@Orn_16
+  - first:
+      213: 5180085136333598332
+    second: Chr@Orn_17
+  - first:
+      213: -9070931487564748195
+    second: Chr@Orn_18
+  - first:
+      213: 4425763478078907586
+    second: Chr@Orn_19
+  - first:
+      213: -1317550528179712678
+    second: Chr@Orn_20
+  - first:
+      213: 8201671185180205268
+    second: Chr@Orn_21
+  - first:
+      213: 2141207248778219409
+    second: Chr@Orn_22
+  - first:
+      213: 6001102110992250631
+    second: Chr@Orn_23
+  - first:
+      213: 4125533044183062498
+    second: Chr@Orn_24
+  - first:
+      213: -6674159822063052515
+    second: Chr@Orn_25
+  - first:
+      213: -3569964022161413730
+    second: Chr@Orn_26
+  - first:
+      213: -3651434061421051403
+    second: Chr@Orn_27
+  - first:
+      213: -6784983118895139748
+    second: Chr@Orn_28
+  - first:
+      213: 4248628302514782856
+    second: Chr@Orn_29
+  - first:
+      213: -5001998831365834725
+    second: Chr@Orn_30
+  - first:
+      213: -3118537591577347977
+    second: Chr@Orn_31
+  - first:
+      213: 2696609485024092286
+    second: Chr@Orn_32
+  - first:
+      213: 50507422107300841
+    second: Chr@Orn_33
+  - first:
+      213: -5240203837658215605
+    second: Chr@Orn_34
+  - first:
+      213: -8789776017526399170
+    second: Chr@Orn_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chr@Orn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ccbe85e791521d0800000000000000
+      internalID: -3376264315195896792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 425
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fba73060647cf30800000000000000
+      internalID: 4595718936397004576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 425
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6960c18b0a9da60800000000000000
+      internalID: 7699361750571194020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 425
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bfe8eac0c5aaf70800000000000000
+      internalID: 9199266398395628403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 425
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7968899ba2f834e50800000000000000
+      internalID: 6792430076670019223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 425
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba54f9650b2d3d10800000000000000
+      internalID: 2106887502931712695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cdcafe9f3a611e0800000000000000
+      internalID: -2227412671824864149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 340
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c0b5d4dcc303e50800000000000000
+      internalID: 6786991490911112231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 340
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13360421b84b9d700800000000000000
+      internalID: 565681737611371313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_9
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 340
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd4928cd0930e280800000000000000
+      internalID: -9016143722640224842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 340
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47565d9969910a170800000000000000
+      internalID: 8187572257176249716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 339
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a22c320c6ea2d470800000000000000
+      internalID: 8417982432426074788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b210e58693d3f7170800000000000000
+      internalID: 8178322765101531435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 255
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5168f1648657ab0800000000000000
+      internalID: -5010984359993928216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 255
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82e04cf865240450800000000000000
+      internalID: 6054004931931726477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_15
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 255
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7286cbdffc9b03dd0800000000000000
+      internalID: -2508300689479014361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 255
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25fad7fc72994040800000000000000
+      internalID: 4632394757159187755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 255
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ee1797cfb53e740800000000000000
+      internalID: 5180085136333598332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a2cc53fd39d1280800000000000000
+      internalID: -9070931487564748195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 170
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c46ac24f687b6d30800000000000000
+      internalID: 4425763478078907586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 170
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d483a76ce17bde0800000000000000
+      internalID: -1317550528179712678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 170
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d029351d7032d170800000000000000
+      internalID: 8201671185180205268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_22
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 170
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fcaede5a817bd10800000000000000
+      internalID: 2141207248778219409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 170
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7073a822392384350800000000000000
+      internalID: 6001102110992250631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7daa71276d04930800000000000000
+      internalID: 4125533044183062498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 85
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d195fb7c00f9063a0800000000000000
+      internalID: -6674159822063052515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 85
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99e426e2a0f47ec0800000000000000
+      internalID: -3569964022161413730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_27
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 85
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f18c383110835dc0800000000000000
+      internalID: -3651434061421051403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_28
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 85
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54bb3f3dc5e6d1a0800000000000000
+      internalID: -6784983118895139748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_29
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 85
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88280125ee826fa30800000000000000
+      internalID: 4248628302514782856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1835898094559ab0800000000000000
+      internalID: -5001998831365834725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_31
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778745b459ab8b4d0800000000000000
+      internalID: -3118537591577347977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_32
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e706fc41a084c6520800000000000000
+      internalID: 2696609485024092286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_33
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3f9399b3073b000800000000000000
+      internalID: 50507422107300841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_34
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b4eb99f5e0747b0800000000000000
+      internalID: -5240203837658215605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Orn_35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f57144841740680800000000000000
+      internalID: -8789776017526399170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chr@Orn_30: -5001998831365834725
+      Chr@Orn_8: 565681737611371313
+      Chr@Orn_12: 8178322765101531435
+      Chr@Orn_32: 2696609485024092286
+      Chr@Orn_20: -1317550528179712678
+      Chr@Orn_14: 6054004931931726477
+      Chr@Orn_22: 2141207248778219409
+      Chr@Orn_21: 8201671185180205268
+      Chr@Orn_3: 9199266398395628403
+      Chr@Orn_35: -8789776017526399170
+      Chr@Orn_9: -9016143722640224842
+      Chr@Orn_34: -5240203837658215605
+      Chr@Orn_26: -3569964022161413730
+      Chr@Orn_0: -3376264315195896792
+      Chr@Orn_24: 4125533044183062498
+      Chr@Orn_19: 4425763478078907586
+      Chr@Orn_7: 6786991490911112231
+      Chr@Orn_33: 50507422107300841
+      Chr@Orn_18: -9070931487564748195
+      Chr@Orn_1: 4595718936397004576
+      Chr@Orn_27: -3651434061421051403
+      Chr@Orn_29: 4248628302514782856
+      Chr@Orn_28: -6784983118895139748
+      Chr@Orn_4: 6792430076670019223
+      Chr@Orn_25: -6674159822063052515
+      Chr@Orn_16: 4632394757159187755
+      Chr@Orn_15: -2508300689479014361
+      Chr@Orn_31: -3118537591577347977
+      Chr@Orn_13: -5010984359993928216
+      Chr@Orn_2: 7699361750571194020
+      Chr@Orn_10: 8187572257176249716
+      Chr@Orn_6: -2227412671824864149
+      Chr@Orn_17: 5180085136333598332
+      Chr@Orn_5: 2106887502931712695
+      Chr@Orn_11: 8417982432426074788
+      Chr@Orn_23: 6001102110992250631
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: 38b285f6b52e8b7449b8932270945724
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8792533903683630614
+    second: Jax_Idle_0
+  - first:
+      213: 1727329496585979701
+    second: Jax_Idle_1
+  - first:
+      213: -7823798800981968082
+    second: Jax_Idle_2
+  - first:
+      213: 8869287863172272855
+    second: Jax_Idle_3
+  - first:
+      213: -9093951932764487078
+    second: Jax_Idle_4
+  - first:
+      213: -3453815682674982294
+    second: Jax_Idle_5
+  - first:
+      213: 1003244896912250241
+    second: Jax_Idle_6
+  - first:
+      213: 3830140594241052571
+    second: Jax_Idle_7
+  - first:
+      213: -7263497506921739201
+    second: Jax_Idle_8
+  - first:
+      213: -2028670769723253324
+    second: Jax_Idle_9
+  - first:
+      213: 2106769712752825235
+    second: Jax_Idle_10
+  - first:
+      213: -5858339855810419595
+    second: Jax_Idle_11
+  - first:
+      213: 6758361674797662459
+    second: Jax_Idle_12
+  - first:
+      213: -9186772782706724200
+    second: Jax_Idle_13
+  - first:
+      213: 8855219410620865994
+    second: Jax_Idle_14
+  - first:
+      213: 9081224490357843546
+    second: Jax_Idle_15
+  - first:
+      213: 8835972895771513734
+    second: Jax_Idle_16
+  - first:
+      213: 2356838518188633160
+    second: Jax_Idle_17
+  - first:
+      213: -7366611676230574157
+    second: Jax_Idle_18
+  - first:
+      213: -7747894572508524336
+    second: Jax_Idle_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jax_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9cb5bdff4aaf580800000000000000
+      internalID: -8792533903683630614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 150
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537cf0e7605b8f710800000000000000
+      internalID: 1727329496585979701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 150
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bb75951784c6390800000000000000
+      internalID: -7823798800981968082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 150
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2111fe15a061b70800000000000000
+      internalID: 8869287863172272855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52881326eacbc180800000000000000
+      internalID: -9093951932764487078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 100
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a620c7a8fe49110d0800000000000000
+      internalID: -3453815682674982294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 100
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1859d271bed3ced00800000000000000
+      internalID: 1003244896912250241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 100
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f9a87d394672530800000000000000
+      internalID: 3830140594241052571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 100
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c8ef8408fd23b90800000000000000
+      internalID: -7263497506921739201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 100
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd5d6ceea6b8d3e0800000000000000
+      internalID: -2028670769723253324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3931f2044efbc3d10800000000000000
+      internalID: 2106769712752825235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 50
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57428e0a0fef2bea0800000000000000
+      internalID: -5858339855810419595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 50
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0cde9c2268acd50800000000000000
+      internalID: 6758361674797662459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 50
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892f986e3d6028080800000000000000
+      internalID: -9186772782706724200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd5332132f04ea70800000000000000
+      internalID: 8855219410620865994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a566b514f8df60e70800000000000000
+      internalID: 9081224490357843546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683d071a88eaf9a70800000000000000
+      internalID: 8835972895771513734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c679d252c25b020800000000000000
+      internalID: 2356838518188633160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf1800e5b984c990800000000000000
+      internalID: -7366611676230574157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jax_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0d378bfe2f97490800000000000000
+      internalID: -7747894572508524336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jax_Idle_13: -9186772782706724200
+      Jax_Idle_1: 1727329496585979701
+      Jax_Idle_2: -7823798800981968082
+      Jax_Idle_5: -3453815682674982294
+      Jax_Idle_7: 3830140594241052571
+      Jax_Idle_0: -8792533903683630614
+      Jax_Idle_8: -7263497506921739201
+      Jax_Idle_14: 8855219410620865994
+      Jax_Idle_4: -9093951932764487078
+      Jax_Idle_17: 2356838518188633160
+      Jax_Idle_12: 6758361674797662459
+      Jax_Idle_11: -5858339855810419595
+      Jax_Idle_18: -7366611676230574157
+      Jax_Idle_6: 1003244896912250241
+      Jax_Idle_16: 8835972895771513734
+      Jax_Idle_15: 9081224490357843546
+      Jax_Idle_3: 8869287863172272855
+      Jax_Idle_10: 2106769712752825235
+      Jax_Idle_19: -7747894572508524336
+      Jax_Idle_9: -2028670769723253324
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

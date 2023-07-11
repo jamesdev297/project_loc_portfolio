@@ -1,0 +1,896 @@
+fileFormatVersion: 2
+guid: a2b88ca54d2a1584a90c792e15a5fabd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1705756594219123414
+    second: Thresh_0
+  - first:
+      213: 7778273946460311254
+    second: Thresh_1
+  - first:
+      213: 5286445038450460366
+    second: Thresh_2
+  - first:
+      213: -4699788473455967291
+    second: Thresh_3
+  - first:
+      213: -6622906189539646311
+    second: Thresh_4
+  - first:
+      213: -157591133880678411
+    second: Thresh_5
+  - first:
+      213: 6357946729990375506
+    second: Thresh_6
+  - first:
+      213: 3332393599497992938
+    second: Thresh_7
+  - first:
+      213: 7237685435406895404
+    second: Thresh_8
+  - first:
+      213: 8215918532762213400
+    second: Thresh_9
+  - first:
+      213: -2001477484856092264
+    second: Thresh_10
+  - first:
+      213: -5311814201470044804
+    second: Thresh_11
+  - first:
+      213: -4464017360731472364
+    second: Thresh_12
+  - first:
+      213: 1628734412157856000
+    second: Thresh_13
+  - first:
+      213: -6990127139100229920
+    second: Thresh_14
+  - first:
+      213: 642039820949249556
+    second: Thresh_15
+  - first:
+      213: 5593954913014828549
+    second: Thresh_16
+  - first:
+      213: 158591392592780035
+    second: Thresh_17
+  - first:
+      213: 9174097212541434798
+    second: Thresh_18
+  - first:
+      213: 1582641331540744871
+    second: Thresh_19
+  - first:
+      213: 2548352031603526653
+    second: Thresh_20
+  - first:
+      213: -2693977358240350746
+    second: Thresh_21
+  - first:
+      213: 6601135528280042885
+    second: Thresh_22
+  - first:
+      213: 6253057654561129610
+    second: Thresh_23
+  - first:
+      213: -5831643505228133700
+    second: Thresh_24
+  - first:
+      213: -5095591037136180780
+    second: Thresh_25
+  - first:
+      213: 3195578697827209571
+    second: Thresh_26
+  - first:
+      213: -6041982572424564386
+    second: Thresh_27
+  - first:
+      213: -8724246167721683935
+    second: Thresh_28
+  - first:
+      213: -534773586048764443
+    second: Thresh_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thresh_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d206bfb5901ca710800000000000000
+      internalID: 1705756594219123414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 296
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de417871faf1fb60800000000000000
+      internalID: 7778273946460311254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 296
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec64771f0c93d5940800000000000000
+      internalID: 5286445038450460366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 296
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c38e20b84ff6ceb0800000000000000
+      internalID: -4699788473455967291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 296
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994e0c709e5b614a0800000000000000
+      internalID: -6622906189539646311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 296
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f78a4dd2bf10ddf0800000000000000
+      internalID: -157591133880678411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258cee57dd6fb3850800000000000000
+      internalID: 6357946729990375506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 222
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeafcdda25a0f3e20800000000000000
+      internalID: 3332393599497992938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 222
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29427d7e8c617460800000000000000
+      internalID: 7237685435406895404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_9
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 222
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c17d0306ec40270800000000000000
+      internalID: 8215918532762213400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 222
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899d531f4d25934e0800000000000000
+      internalID: -2001477484856092264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_11
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 222
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75b0808025a846b0800000000000000
+      internalID: -5311814201470044804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e7c6e9cdf9c02c0800000000000000
+      internalID: -4464017360731472364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 148
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009af16815d6a9610800000000000000
+      internalID: 1628734412157856000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 148
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eefc1bf6641efe90800000000000000
+      internalID: -6990127139100229920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_15
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 148
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ed553c0dbf8e800800000000000000
+      internalID: 642039820949249556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 148
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eccc7fa58b1ad40800000000000000
+      internalID: 5593954913014828549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_17
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 148
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b5de3080e633200800000000000000
+      internalID: 158591392592780035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabfe60fec0f05f70800000000000000
+      internalID: 9174097212541434798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 74
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa5655e7eba6f510800000000000000
+      internalID: 1582641331540744871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_20
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 74
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb8f56cba09d5320800000000000000
+      internalID: 2548352031603526653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_21
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 74
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed7321bdd11d9ad0800000000000000
+      internalID: -2693977358240350746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_22
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 74
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58da755e9c1fb9b50800000000000000
+      internalID: 6601135528280042885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_23
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 74
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8447248ec257c650800000000000000
+      internalID: 6253057654561129610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbac92e1127d11fa0800000000000000
+      internalID: -5831643505228133700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d965d603f2d849b0800000000000000
+      internalID: -5095591037136180780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_26
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361dbcf05e9f85c20800000000000000
+      internalID: 3195578697827209571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_27
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e517887bcd0962ca0800000000000000
+      internalID: -6041982572424564386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_28
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124d2ef55504de680800000000000000
+      internalID: -8724246167721683935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thresh_29
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e53d40c14a1498f0800000000000000
+      internalID: -534773586048764443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Thresh_5: -157591133880678411
+      Thresh_0: 1705756594219123414
+      Thresh_12: -4464017360731472364
+      Thresh_26: 3195578697827209571
+      Thresh_25: -5095591037136180780
+      Thresh_2: 5286445038450460366
+      Thresh_22: 6601135528280042885
+      Thresh_11: -5311814201470044804
+      Thresh_3: -4699788473455967291
+      Thresh_8: 7237685435406895404
+      Thresh_9: 8215918532762213400
+      Thresh_4: -6622906189539646311
+      Thresh_15: 642039820949249556
+      Thresh_16: 5593954913014828549
+      Thresh_23: 6253057654561129610
+      Thresh_24: -5831643505228133700
+      Thresh_17: 158591392592780035
+      Thresh_20: 2548352031603526653
+      Thresh_10: -2001477484856092264
+      Thresh_18: 9174097212541434798
+      Thresh_21: -2693977358240350746
+      Thresh_13: 1628734412157856000
+      Thresh_19: 1582641331540744871
+      Thresh_14: -6990127139100229920
+      Thresh_1: 7778273946460311254
+      Thresh_7: 3332393599497992938
+      Thresh_28: -8724246167721683935
+      Thresh_6: 6357946729990375506
+      Thresh_29: -534773586048764443
+      Thresh_27: -6041982572424564386
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

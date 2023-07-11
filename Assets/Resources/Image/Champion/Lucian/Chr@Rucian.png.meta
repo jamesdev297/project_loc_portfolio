@@ -1,0 +1,1008 @@
+fileFormatVersion: 2
+guid: d74d6334599bb456e891bbfbc4b51359
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8566481441488071392
+    second: Chr@Rucian_0
+  - first:
+      213: -4576057062925956689
+    second: Chr@Rucian_1
+  - first:
+      213: -1778269215275426790
+    second: Chr@Rucian_2
+  - first:
+      213: -2604062987268380997
+    second: Chr@Rucian_3
+  - first:
+      213: -4657808574546614837
+    second: Chr@Rucian_4
+  - first:
+      213: -6003555538923791126
+    second: Chr@Rucian_5
+  - first:
+      213: 8475681699387785847
+    second: Chr@Rucian_6
+  - first:
+      213: 1611843464807998322
+    second: Chr@Rucian_7
+  - first:
+      213: 6885564937914740762
+    second: Chr@Rucian_8
+  - first:
+      213: -1010458827809019890
+    second: Chr@Rucian_9
+  - first:
+      213: -8671602480450790831
+    second: Chr@Rucian_10
+  - first:
+      213: 5286099923016923014
+    second: Chr@Rucian_11
+  - first:
+      213: -5493310408321447818
+    second: Chr@Rucian_12
+  - first:
+      213: 9075602666870893566
+    second: Chr@Rucian_13
+  - first:
+      213: -377881659669441875
+    second: Chr@Rucian_14
+  - first:
+      213: -7037143645054556464
+    second: Chr@Rucian_15
+  - first:
+      213: -5829407041518439726
+    second: Chr@Rucian_16
+  - first:
+      213: 6750845959811956832
+    second: Chr@Rucian_17
+  - first:
+      213: 6584164172419563552
+    second: Chr@Rucian_18
+  - first:
+      213: 3299158090041553794
+    second: Chr@Rucian_19
+  - first:
+      213: -3721061574528519423
+    second: Chr@Rucian_20
+  - first:
+      213: 4673203936163537309
+    second: Chr@Rucian_21
+  - first:
+      213: 3760917477450228148
+    second: Chr@Rucian_22
+  - first:
+      213: 6883573479090930020
+    second: Chr@Rucian_23
+  - first:
+      213: -5210373609866009581
+    second: Chr@Rucian_24
+  - first:
+      213: -7211456731153692588
+    second: Chr@Rucian_25
+  - first:
+      213: -6552128496694448669
+    second: Chr@Rucian_26
+  - first:
+      213: 224070254380468610
+    second: Chr@Rucian_27
+  - first:
+      213: -2159898742689300011
+    second: Chr@Rucian_28
+  - first:
+      213: -8930498040718665742
+    second: Chr@Rucian_29
+  - first:
+      213: -7070951987327623281
+    second: Chr@Rucian_30
+  - first:
+      213: -2043024468495965874
+    second: Chr@Rucian_31
+  - first:
+      213: -2750986626505390625
+    second: Chr@Rucian_32
+  - first:
+      213: -2216904061022338254
+    second: Chr@Rucian_33
+  - first:
+      213: 5999563091837709101
+    second: Chr@Rucian_34
+  - first:
+      213: 1049776236968515655
+    second: Chr@Rucian_35
+  - first:
+      213: 384295629453955227
+    second: Chr@Rucian_36
+  - first:
+      213: 3947681548515301773
+    second: Chr@Rucian_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chr@Rucian_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0259021248ebd1980800000000000000
+      internalID: -8566481441488071392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa98164a8549e70c0800000000000000
+      internalID: -4576057062925956689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cde7402915257e0800000000000000
+      internalID: -1778269215275426790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6202f82828cdbd0800000000000000
+      internalID: -2604062987268380997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5616297c32c5fb0800000000000000
+      internalID: -4657808574546614837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec5e19ab061faca0800000000000000
+      internalID: -6003555538923791126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772c949799baf9570800000000000000
+      internalID: 8475681699387785847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2736a61671b6e5610800000000000000
+      internalID: 1611843464807998322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10fa4a64d07e8f50800000000000000
+      internalID: 6885564937914740762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08294cbc012af1f0800000000000000
+      internalID: -1010458827809019890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a9557fc7748a780800000000000000
+      internalID: -8671602480450790831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687b4ae7fdffb5940800000000000000
+      internalID: 5286099923016923014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6784b07d947d3c3b0800000000000000
+      internalID: -5493310408321447818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb6d697a8403fd70800000000000000
+      internalID: 9075602666870893566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da29444f1ae71caf0800000000000000
+      internalID: -377881659669441875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d62023a32b075e90800000000000000
+      internalID: -7037143645054556464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2f1276e29c91fa0800000000000000
+      internalID: -5829407041518439726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06009f702a2dfad50800000000000000
+      internalID: 6750845959811956832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0200cef2e66af5b50800000000000000
+      internalID: 6584164172419563552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28378ce9dc6f8cd20800000000000000
+      internalID: 3299158090041553794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1033fd686322c5cc0800000000000000
+      internalID: -3721061574528519423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d912cf1683e8ad040800000000000000
+      internalID: 4673203936163537309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1aaf00586713430800000000000000
+      internalID: 3760917477450228148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461c386cb9d578f50800000000000000
+      internalID: 6883573479090930020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314eddcbec801b7b0800000000000000
+      internalID: -5210373609866009581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4580c7a9f42cbeb90800000000000000
+      internalID: -7211456731153692588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed20dfc8d92215a0800000000000000
+      internalID: -6552128496694448669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289441d85be0c1300800000000000000
+      internalID: 224070254380468610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d10133898f7602e0800000000000000
+      internalID: -2159898742689300011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f754a7095f701480800000000000000
+      internalID: -8930498040718665742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f9e7b81aeeedd90800000000000000
+      internalID: -7070951987327623281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41eddff118b5a3e0800000000000000
+      internalID: -2043024468495965874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5cb411d3882d9d0800000000000000
+      internalID: -2750986626505390625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chr@Rucian_33
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23384ad8089fb31e0800000000000000
+      internalID: -2216904061022338254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chr@Rucian_26: -6552128496694448669
+      Chr@Rucian_5: -6003555538923791126
+      Chr@Rucian_7: 1611843464807998322
+      Chr@Rucian_14: -377881659669441875
+      Chr@Rucian_28: -2159898742689300011
+      Chr@Rucian_31: -2043024468495965874
+      Chr@Rucian_25: -7211456731153692588
+      Chr@Rucian_24: -5210373609866009581
+      Chr@Rucian_16: -5829407041518439726
+      Chr@Rucian_9: -1010458827809019890
+      Chr@Rucian_0: -8566481441488071392
+      Chr@Rucian_15: -7037143645054556464
+      Chr@Rucian_21: 4673203936163537309
+      Chr@Rucian_27: 224070254380468610
+      Chr@Rucian_4: -4657808574546614837
+      Chr@Rucian_19: 3299158090041553794
+      Chr@Rucian_12: -5493310408321447818
+      Chr@Rucian_23: 6883573479090930020
+      Chr@Rucian_17: 6750845959811956832
+      Chr@Rucian_8: 6885564937914740762
+      Chr@Rucian_2: -1778269215275426790
+      Chr@Rucian_20: -3721061574528519423
+      Chr@Rucian_22: 3760917477450228148
+      Chr@Rucian_30: -7070951987327623281
+      Chr@Rucian_11: 5286099923016923014
+      Chr@Rucian_29: -8930498040718665742
+      Chr@Rucian_32: -2750986626505390625
+      Chr@Rucian_6: 8475681699387785847
+      Chr@Rucian_18: 6584164172419563552
+      Chr@Rucian_3: -2604062987268380997
+      Chr@Rucian_33: -2216904061022338254
+      Chr@Rucian_10: -8671602480450790831
+      Chr@Rucian_13: 9075602666870893566
+      Chr@Rucian_1: -4576057062925956689
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
