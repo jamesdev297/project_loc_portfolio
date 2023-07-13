@@ -30,6 +30,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0.51, z: 0}
   m_LocalScale: {x: 2.3218, y: 2.3218, z: 2.3218}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 3472502170828387200}
   m_Father: {fileID: 0}
@@ -158,6 +159,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0.288, z: 0}
   m_LocalScale: {x: 2.8945394, y: 2.8945394, z: 2.8945394}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 5093727490622988195}
   m_RootOrder: 0
@@ -173,6 +175,7 @@ SpriteRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
